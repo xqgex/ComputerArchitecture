@@ -1,0 +1,13 @@
+add_nr_units = 2
+sub_nr_units = 1
+mul_nr_units = 2
+div_nr_units = 2
+ld_nr_units = 2
+st_nr_units = 2
+add_delay = 2
+sub_delay = 2
+mul_delay = 3
+div_delay = 5
+ld_delay = 3
+st_delay = 3
+trace_unit = LD0

@@ -1,0 +1,6 @@
+ld F0 7
+ld F1 8
+add.d F1 F1 F0
+sub.d  F2 F2 F1
+mult.d F2 F2 F1
+halt

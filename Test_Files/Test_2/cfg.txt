@@ -1,0 +1,20 @@
+
+trace_unit = ADD0
+sub_nr_units = 1
+sub_delay = 2
+
+ st_nr_units  =  0 
+	st_delay = 7
+mul_nr_units =       1
+mul_delay = 5
+	
+ld_nr_units = 2
+ld_delay = 7
+     
+div_nr_units = 0
+div_delay=20
+add_nr_units = 1	
+add_delay = 2
+
+ 
+	

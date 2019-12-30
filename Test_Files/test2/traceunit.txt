@@ -1,0 +1,8 @@
+2 LD0 F1 F16 F16 - - Yes Yes
+3 LD0 F1 F16 F16 - - No No
+4 LD0 F1 F16 F16 - - No No
+5 LD0 F1 F16 F16 - - No No
+7 LD0 F3 F16 F16 - - Yes Yes
+8 LD0 F3 F16 F16 - - No No
+9 LD0 F3 F16 F16 - - No No
+10 LD0 F3 F16 F16 - - No No

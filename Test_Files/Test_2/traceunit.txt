@@ -1,0 +1,3 @@
+11 ADD0 F1 F1 F0 - - Yes Yes
+12 ADD0 F1 F1 F0 - - No No
+13 ADD0 F1 F1 F0 - - No No

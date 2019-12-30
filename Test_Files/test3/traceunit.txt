@@ -1,0 +1,6 @@
+2 ADD0 F0 F1 F2 - - Yes Yes
+3 ADD0 F0 F1 F2 - - No No
+4 ADD0 F0 F1 F2 - - No No
+6 ADD0 F9 F7 F8 - - Yes Yes
+7 ADD0 F9 F7 F8 - - No No
+8 ADD0 F9 F7 F8 - - No No
